@@ -1,2 +1,2 @@
 # Encapsulation
-My report for encapsulation assay
+This respository used to demonstrate the features of github branches
