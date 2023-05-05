@@ -1,2 +1,2 @@
 # Encapsulation
-This respository is used to demonstrate the features of github branches
+This respository used to demonstrate the features of github branches
